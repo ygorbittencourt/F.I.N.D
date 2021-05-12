@@ -1,5 +1,6 @@
-# F.I.N.D
-#F.I.N.D - F(for).I(intern).N(network).D(discovery)  - A stealth Scan, network discovery using ARP packets
+# F.I.N.D - F(for).I(intern).N(network).D(discovery)
+  
+  F.I.N.D - F(for).I(intern).N(network).D(discovery)  - A stealth Scan, network discovery using ARP packets
 
      F.I.N.D foi desenvolvido para fazer descoberta silenciosa a partir de um seguimento de rede interna.
 
@@ -9,7 +10,7 @@
    É dessa forma que o F.I.N.D consegue localizar máquinas ativas sem levantar suspeitas, mesmo que o firewall delas esteja ativado.
    Encontrar os HOSTS UP é quase certo, já as portas não tem jeito, se existir um firewall bloqueando-as elas não serão listadas.
 
-   Originalmente(No códdigo desse repositório) você pode alterar as portas do SCAN na linha 27! Mas lembre-se que a vantagem é ser silencioso.
+   Originalmente(No código desse repositório) você pode alterar as portas do SCAN na linha 31! Mas lembre-se que a vantagem é ser silencioso.
 
          =======> Para Instalar <=======
          Clone o repositório ==> git clone https://github.com/ygorbittencourt/F.I.N.D.git
